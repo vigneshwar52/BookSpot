@@ -21,12 +21,12 @@ Bookspot is a Jetpack Compose application that uses the Retrofit library to make
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/vigneshwar52/AndroidPreparations.git
+   git clone git@github.com:vigneshwar52/BookSpot.git
    ```
 
 2. Navigate to the project directory:
    ```sh
-   cd AndroidPreparations
+   cd BookSpot
    ```
 
 3. Open the project in Android Studio.
